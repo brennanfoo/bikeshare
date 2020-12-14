@@ -1,3 +1,3 @@
 == ABOUT
 
-This was a simple homepage app for my daily bike commute. Showed me bikes available at a bikesharing station near my house, and docks available near my office.
+This was a simple homepage app for my daily bike commute. IIRC it showed me bikes available at a bikesharing station near my house, and docks available near my office.
